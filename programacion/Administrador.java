@@ -12,8 +12,9 @@ public class Administrador extends Usuario {
     @Override
     public void actualizarDatos() {
        
-        System.out.println("ADMIN: Actualizando credenciales del administrador: " + nombre); 
+        
     }
     
   
 }
+
